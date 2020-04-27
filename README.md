@@ -6,33 +6,30 @@ You can make your Termux look pretty much just like  your PC linux terminal, aft
 
 
 ## Requirements
-___
 
 * Termux
 * Love for your phone and linux
 
 
 ## Installation
----
 
 1. Download Termux from Play-Store or F-Droid(and the termux-api too for better and more functionality)
 2. Download the script or clone the repository
 
 ```bash
-			git clone https://github.com/anorebel/OhMyTermux.git
+git clone https://github.com/anorebel/OhMyTermux.git
 ```
 
 3. Run the script
 
 
 ```bash
-			cd OhMyTermux
-			
-			./install.sh
+cd OhMyTermux
+
+./install.sh
 ```
 
 ### Credits
----
 
 * Termux
 * [4679 (oh-my-termux)](https://github.com/4679/)
@@ -41,7 +38,6 @@ ___
 
 
 ## Links
-___
 
 [Play-Store](https://play.google.com/store/apps/details?id=com.termux)
 
