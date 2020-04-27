@@ -58,10 +58,10 @@ termux-setup-storage
 
 figlet -f script -c "Done! " | lolcat
 
-echo "Choose your color scheme now:" | lolcat
+echo "Choose your color scheme now: " | lolcat
 $HOME/.termux/colors.sh
 
-echo "Choose your font now:" | lolcat
+echo "Choose your font now: " | lolcat
 $HOME/.termux/fonts.sh
 
 printf "${GREEN}"
